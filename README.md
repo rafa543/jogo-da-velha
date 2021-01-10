@@ -1,6 +1,8 @@
 ## Jogo da Velha com javascript
  
 Projeto feito para treina habilidades front-end como html, css, e javascript
+
+## https://rafa543.github.io/jogo-da-velha/
  
 ![Logo of the project](https://github.com/rafa543/jogo-da-velha/blob/master/readme_images/png-transparent-heart-tic-tac-toe-play-tic-tac-toe-free-tic-tac-toe-love-heart-tic-tac-toe-tic-tac-game-angle-text.png)
  
